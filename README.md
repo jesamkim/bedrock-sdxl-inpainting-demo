@@ -192,3 +192,6 @@ cd bedrock-sdxl-inpainting-demo/source_code
 
 streamlit run mask_image_app.py --server.port 8501
 ```
+
+#### 3-4. AWS Cloud9에서 **Preview** -> **Preview Running Application**을 선택합니다.
+![Screenshot of terminal, showing the Cloud9 preview button](/img/cloud9-setup/cloud9-preview.png)
