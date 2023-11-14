@@ -1,5 +1,6 @@
 # Amazon Bedrock - Stable Diffusion XL 로 만드는 이미지 인페인팅 DEMO
 
+![Demo capture](/img/demo-capture1.png)
 ---
 
 ## 1. Amazon Bedrock 설정
