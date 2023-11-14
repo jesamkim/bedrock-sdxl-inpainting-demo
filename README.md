@@ -1,4 +1,4 @@
-# Amazon Bedrock - Stable Diffusion XL 로 만드는 이미지 인페인팅 DEMO
+# Amazon Bedrock - Stable Diffusion XL 이미지 인페인팅 DEMO
 
 ---
 
