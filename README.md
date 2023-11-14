@@ -179,6 +179,16 @@
 ```
 git clone https://github.com/jesamkim/bedrock-sdxl-inpainting-demo.git
 
+```
+
+#### 3-2. 이어서 코드 실행에 필요한 디펜던시를 설치 합니다.
+```
+pip install -r ../dependencies/requirements.txt --quiet
+```
+
+#### 3-3. 이어서 스트림릿을 구동 합니다.
+```
 cd bedrock-sdxl-inpainting-demo/source_code
 
+streamlit run mask_image_app.py --server.port 8501
 ```
