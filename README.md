@@ -180,7 +180,7 @@ pip install -r ../dependencies/requirements.txt --quiet
 
 #### 3-3. 이어서 스트림릿을 구동 합니다.
 ```
-streamlit run mask_image_app.py --server.port 8501
+streamlit run mask_image_app.py --server.port 8080
 ```
 
 #### 3-4. AWS Cloud9에서 **Preview** -> **Preview Running Application**을 선택합니다.
