@@ -126,18 +126,6 @@
 ![New EC2 instance editor panel](/img/cloud9-setup/cloud9-ubuntu-instance.png)
 
 
-
-
-&nbsp;
-
-
-::::alert{header="플랫폼으로 Ubuntu를 선택하셨나요?" type="warning"}
-
-플랫폼을 Ubuntu server 22.04 LTS로 설정했는지 다시 확인하세요. LangChain 및 기타 중요한 라이브러리를 지원하는 Python 버전을 사용할 수 있습니다. 
-::::
-
-
-
 &nbsp;
 
 #### 2-6. **Create** 버튼을 선택합니다.
