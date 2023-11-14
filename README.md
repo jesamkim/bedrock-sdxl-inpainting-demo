@@ -1,5 +1,5 @@
 # Amazon Bedrock - Stable Diffusion XL 로 만드는 이미지 인페인팅 DEMO
-Amazon Bedrock의 Stable Diffusion XL로 실습하는 이미지 인페인팅 데모 입니다.
+
 ---
 
 ## 1. Amazon Bedrock 설정
