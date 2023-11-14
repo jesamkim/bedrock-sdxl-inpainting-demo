@@ -1,4 +1,4 @@
-# bedrock-sdxl-inpainting-demo
+# Amazon Bedrock 에서 Stable Diffusion XL 로 만드는 이미지 인페인팅 데모
 Amazon Bedrock의 Stable Diffusion XL로 실습하는 이미지 인페인팅 데모 입니다.
 ---
 
