@@ -1,6 +1,6 @@
 # Amazon Bedrock - Stable Diffusion XL 로 만드는 이미지 인페인팅 DEMO
 
-![Demo capture](img/demo-capture1.png)
+![Demo capture](/img/demo-capture1.png)
 
 ---
 
@@ -11,7 +11,7 @@
 - 이 글을 쓰는 시점에 Amazon Bedrock은 us-east-1 (버지니아주 북부) 및 us-west-2(오레곤) 리전에서 이용할 수 있습니다.
 
 
-![Screenshot of AWS console, selecting region](img/bedrock-setup/region-selection.png)
+![Screenshot of AWS console, selecting region](/img/bedrock-setup/region-selection.png)
 
 
 
