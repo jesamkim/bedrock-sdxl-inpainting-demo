@@ -139,12 +139,9 @@
 - 준비가 완료되면 상단 배너에 "Successfully created bedrock-environment."라는 메시지가 표시됩니다.
 - 환경 목록에서 **Open** 링크를 클릭합니다. 그러면 새 탭에서 AWS Cloud9 IDE가 시작됩니다.
 
-::::alert{header="환경 생성 오류 처리" type="info"}
-
 * 선택한 인스턴스 유형을 가용 영역에서 사용할 수 없다는 오류 메시지가 표시되면 환경을 삭제하세요. 다른 크기의 인스턴스 유형으로 프로비저닝을 다시 시도하세요.
 
 
-::::
 
 
 ![AWS Cloud9 screen with success banner](/img/cloud9-setup/cloud9-ready.png)
