@@ -1,13 +1,15 @@
 # Amazon Bedrock - Stable Diffusion XL 로 만드는 이미지 인페인팅 DEMO
 
 ![Demo capture](/img/demo-capture1.png)
+
 ---
 
 ## 1. Amazon Bedrock 설정
 
 1-1. AWS 콘솔에서 Amazon Bedrock에 액세스하려는 리전을 선택합니다.
 
-- 이 글을 쓰는 시점에 Amazon Bedrock은 us-east-1 (버지니아주 북부) 및 us-west-2(오레곤) 리전에서 이용할 수 있습니다. 
+- 이 글을 쓰는 시점에 Amazon Bedrock은 us-east-1 (버지니아주 북부) 및 us-west-2(오레곤) 리전에서 이용할 수 있습니다.
+
 
 ![Screenshot of AWS console, selecting region](/img/bedrock-setup/region-selection.png)
 
