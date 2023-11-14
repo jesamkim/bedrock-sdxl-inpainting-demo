@@ -1,9 +1,12 @@
 # Amazon Bedrock - Stable Diffusion XL 로 만드는 이미지 인페인팅 DEMO
 
 ---
-
-![Demo capture](/img/demo-capture1.png)
-
+앱은 Streamlit으로 구동되며 아래와 같습니다.<br>
+![Demo capture](/img/demo-capture1.png) <br>
+왼쪽 이미지에서 마우스로 드래그 하면서 선을 여러 번 그려서 마스크 영역을 지정합니다.<br>
+이미지 프롬프트에 "2pac printing" 과 같은 프롬프트를 입력하고, 오른쪽의 <b>생성하기</b> 버튼을 클릭 합니다.<br>
+(마스크 영역을 다르게 하거나, SDXL의 파라미터 값을 조정하면서 테스트 해보세요.)<br>
+---
 
 ## 1. Amazon Bedrock 설정
 
