@@ -193,7 +193,7 @@ streamlit run mask_image_app.py --server.port 8080
 ---
 
 ## 4. 리소스 정리
-![Clean-up](clean-up.md)를 참조하여 AWS Cloud9 환경을 삭제합니다.
+[Clean-up](clean-up.md)를 참조하여 AWS Cloud9 환경을 삭제합니다.
 
 
 ---
