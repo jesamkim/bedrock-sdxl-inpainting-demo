@@ -189,3 +189,13 @@ streamlit run mask_image_app.py --server.port 8080
 
 #### 3-5. Streamlit 화면에서 DEMO를 진행 합니다. 마우스 드래그로 마스크 영역을 선을 여러번 그어서 지정하고 프롬프트(예: 2pac printing)를 입력 후, 생성하기 버튼을 클릭합니다.
 ![Screenshot of cloud9 preview](/img/demo-capture2.png)
+
+---
+
+## 4. 리소스 정리
+![Clean-up](clean-up.md)를 참조하여 AWS Cloud9 환경을 삭제합니다.
+
+
+---
+---
+
